@@ -1,6 +1,6 @@
 # Exploratory Data Analysis: First project
 
-### This repository contains plots in png format and R files for corresponding plots. This project is part of the coursera course ** Exploratory Data Analysis**.
+### This repository contains plots in png format and R files for corresponding plots. This project is part of the coursera course,  Exploratory Data Analysis.
 ### This assignment had used data from the UC Irvine Machine Learning Repository: “Individual household electric power consumption Data ### Set”.
 
 
